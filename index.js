@@ -1,9 +1,9 @@
 let indexEdadG = 0;
 let indexEdadM = 0;
 let indexEdadH = 0;
-let acumuladorEdad =null;
-let acumuladorEdadMujeres=null;
-let acumuladorEdadHombres=null;
+let acumuladorEdad = null;
+let acumuladorEdadMujeres = null;
+let acumuladorEdadHombres = null;
 
 
 let indexEdadMenorM = 0;
@@ -58,7 +58,7 @@ do {
 
 
 
-/* Promedio edad */
+/* Promedio edades */
 
 console.log("El promedio general de la edad  es: " + acumuladorEdad/indexEdadG);
 
